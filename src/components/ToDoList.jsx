@@ -1,6 +1,6 @@
 import React, { useRef, useState, useEffect } from "react";
 import ToDoItem from "./ToDoItem";
-import todo_icon from "../assets/todo_icon.png";
+import todo_icon from '../assets/todo_icon.png';
 
 function ToDoList() {
   const [todoList, setTodoList] = useState(() => {
@@ -51,7 +51,7 @@ function ToDoList() {
       {/* Title */}
       <div className="flex items-center mt-6 gap-2">
         <img className="w-8" src={todo_icon} alt="To-Do Icon" />
-        <h1 className="text-3xl font-semibold">To-Do List</h1>
+        <h1 className="text-3xl text-red-500 font-semibold">To-Do List</h1>
       </div>
 
       {/* Input Box */}

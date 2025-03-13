@@ -29,7 +29,7 @@ This is a simple To-Do List application built using React.js and Tailwind CSS. I
 ## 📂 Folder Structure
 
 ```sh
-📦 todo-app
+📦 ReactToDo
 ┣ 📂 src
 ┃ ┣ 📂 assets (icons/images)
 ┃ ┣ 📂 components
