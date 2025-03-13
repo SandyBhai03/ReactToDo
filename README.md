@@ -95,7 +95,7 @@ http://localhost:5173
 - **Header.js** - (To be added for better structure).
 
 ## 📸 Screenshots
-![Overview](../ReactToDo/src/assets/Screenshot%20(207).png) → Embeds an image (## 📸 Screenshots section)
+![React ToDo App Screenshot](../ReactToDo/src/assets/Screenshot%20(207).png "React ToDo App Screenshot")
 
 ## 🛠️ Future Improvements
 
