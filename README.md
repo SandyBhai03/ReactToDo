@@ -1,6 +1,9 @@
-#📌 To-Do List Application
+# 📌 To-Do List Application
 
-##🚀 Overview
+## Live Link URL:
+- https://sandybhai03.github.io/ReactToDo/
+
+## 🚀 Overview
 
 This is a simple To-Do List application built using React.js and Tailwind CSS. It allows users to add, edit, delete, and mark tasks as completed while persisting data in localStorage.
 
@@ -49,8 +52,8 @@ This is a simple To-Do List application built using React.js and Tailwind CSS. I
 1.  Clone the repository
 
 ```sh
-git clone https://github.com/yourusername/todo-app.git
-cd todo-app
+git clone https://github.com/SandyBhai03/ReactToDo.git
+cd ReactToDo
 ```
 
 2. Install dependencies
@@ -92,7 +95,7 @@ http://localhost:5173
 - **Header.js** - (To be added for better structure).
 
 ## 📸 Screenshots
-![Overview](../my-todo-app/src/assets/) → Embeds an image (## 📸 Screenshots section)
+![Overview](../ReactToDo/src/assets/Screenshot%20(207).png) → Embeds an image (## 📸 Screenshots section)
 
 ## 🛠️ Future Improvements
 
