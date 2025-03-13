@@ -95,7 +95,7 @@ http://localhost:5173
 - **Header.js** - (To be added for better structure).
 
 ## 📸 Screenshots
-![React ToDo App Screenshot](../ReactToDo/src/assets/Screenshot%20(207).png "React ToDo App Screenshot")
+![React ToDo App Screenshot](https://github.com/SandyBhai03/ReactToDo/blob/main/src/assets/Screenshot%20(207).png "React ToDo App Screenshot")
 
 ## 🛠️ Future Improvements
 
