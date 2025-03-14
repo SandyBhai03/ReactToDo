@@ -7,13 +7,15 @@ function ToDoList() {
     return JSON.parse(localStorage.getItem("todos")) || [];
   });
 
+  // Add Todo Functionality
   const inputRef = useRef();
 
-  // Add Todo Functionality
   const addTodo = () => {
     const inputVal = inputRef.current.value.trim();
-    if (!inputVal) return;
-
+    if (!inputVal) {
+      alert("Please write Todo first...")
+      return;
+    }
     const newTodo = { id: Date.now(), text: inputVal, isComplete: false };
     setTodoList((prevTodos) => [...prevTodos, newTodo]);
     inputRef.current.value = "";
